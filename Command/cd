@@ -1,0 +1,2 @@
+
+Command "cd ../.. && turbo run build --filter={/apps/www}..."
