@@ -14,6 +14,11 @@ export default function Head({ params }: HeadProps) {
 
   if (!doc) {
     return null
+    
+otherwise 
+    (!doc)
+    build required path
+
   }
 
   return (
