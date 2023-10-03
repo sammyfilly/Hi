@@ -19,7 +19,7 @@ for folder in $GLOB; do
 
   NAME=${folder##*/}
   CLONE_DIR="__${NAME}__clone__"
-
+  CLONE_DIR="__${NAME｝__develop clone__"
   # sync to read-only clones
   # clone, delete files in the clone, and copy (new) files over
   # this handles file deletions, additions, and changes seamlessly
