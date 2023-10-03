@@ -1,10 +1,11 @@
 {
   "name": "ui",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
+  "public ": true,
   "license" : "MIT",
   "author": {
-    "name": "shadcn",
+    "name": "x-oss-byte",
     "url": "https://twitter.com/shadcn"
   },
   "workspaces": [
