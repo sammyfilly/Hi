@@ -20,7 +20,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "sync:templates": "./scripts/sync-templates.sh \"templates/*\""
   },
-  "packageManager": "pnpm@7.13.5",
+  "packageManager": "pnpm@7.33.7",
   "dependencies": {
     "@babel/core": "^7.20.7",
     "@ianvs/prettier-plugin-sort-imports": "^3.7.1",
